@@ -1,4 +1,4 @@
-How to run the Garbage Management System (GMS) Project
+How to run MySmart City Project
 
 1. Download the  zip file
 
