@@ -8,11 +8,11 @@ How to run the Garbage Management System (GMS) Project
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-5. Create a database with name garbagemsdb
+5. Create a database with name mysmart
 
 6. Import garbagemsdb.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/gms (frontend)
+7.Run the script http://localhost/mysmart (frontend)
 
 
 
@@ -29,6 +29,6 @@ Or Register a new driver.
 
 Credential for  User panel :
 
-Username: Johndoe123
+Username: user
 Password: Test@123
 Or Register a new User.
